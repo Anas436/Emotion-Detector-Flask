@@ -1,1 +1,1 @@
-# Emotion-Detector-Flask
+# Repository for final project
